@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b539dc0e-86e6-473b-902a-8b2e4db9c6d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../messageapp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/java/solace/messageapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/src/main/java/solace/messageapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/java/solace/messageapp/ui/home/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/java/solace/messageapp/ui/home/HomeViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/java/solace/messageapp/ui/notifications/NotificationsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/src/main/java/solace/messageapp/ui/notifications/NotificationsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/java/solace/messageapp/ui/notifications/NotificationsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messageapp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../messageapp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Iq1SjOCfdOgifsbypHU66460L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_interpreter_path": "C:/Users/darre/AppData/Roaming/JetBrains/WebStorm2022.1/node/node-v14.15.0-win-x64/node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b539dc0e-86e6-473b-902a-8b2e4db9c6d9" name="Changes" comment="" />
+      <created>1652810731747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652810731747</updated>
+      <workItem from="1652810732879" duration="4840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
